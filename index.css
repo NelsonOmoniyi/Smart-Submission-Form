@@ -1,0 +1,76 @@
+
+i {
+    color: white;
+}
+#body {
+    font-family: Arial, Roboto;
+    background-color: #EFF3F6;
+}
+
+.box {
+    margin: 0 auto;
+}
+
+.head {
+    background-color: #6E8292;
+    margin-top: 60px;
+    padding: 20px;
+    border-radius: 5px;
+    color: aliceblue;
+}
+
+#SD {
+    float: right;
+    margin-right: 800px;
+    margin-top: -34px;
+    font-size: 19px;
+    color: rgba(240, 248, 255, 0.712);
+}
+
+#table {
+    margin: 20px 0;
+}
+
+#back {
+    background-color: #6E8292;
+    color: white;
+}
+
+#bar1 {
+    padding: 20px;
+}
+
+#checkField {
+    margin: 0;
+    min-height: 12px;
+    font-size: 12px;
+    font-weight: 300;
+}
+
+#check {
+    margin: -25px 0 0 0;
+}
+
+.sectionBody {
+    padding: 10px;
+    background-color: White;
+}
+
+.row {
+    color: white;
+}
+
+.table>thead>tr>td.info,
+.table>tbody>tr>td.info,
+.table>tfoot>tr>td.info,
+.table>thead>tr>th.info,
+.table>tbody>tr>th.info,
+.table>tfoot>tr>th.info,
+.table>thead>tr.info>td,
+.table>tbody>tr.info>td,
+.table>tfoot>tr.info>td,
+.table>thead>tr.info>th,
+.table>tbody>tr.info>th,
+.table>tfoot>tr.info>th {
+    background-color: #eef9fd;
+}
